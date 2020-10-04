@@ -1,5 +1,7 @@
 # WordCloud
  The script will create a WordCloud out of the most often used words from your WhatsApp chat. 
+ 
+ ![WordCLoud Example](https://raw.githubusercontent.com/YuZaGa/WordCloud/master/ue.png)
 
  ## Libraries / Modules
   1. NumPy
